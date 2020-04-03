@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Codes\Creator.cs" />
      <Compile Include="Assets\Codes\EnemieParent.cs" />
+     <Compile Include="Assets\Codes\GhoulEnemy.cs" />
      <Compile Include="Assets\Codes\NormalEnemie.cs" />
      <Compile Include="Assets\Codes\Walk.cs" />
  <Reference Include="UnityEngine.UI">
